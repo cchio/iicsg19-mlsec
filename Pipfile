@@ -9,6 +9,9 @@ verify_ssl = true
 sklearn = "*"
 jupyter = "*"
 tensorflow = "*"
+matplotlib = "*"
+image = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.7"
